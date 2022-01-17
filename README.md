@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Bruno Negri 👋
-- 🌱 Estudando BootCamp
+- 🌱 Estudando BootCamp pela DIO 🧡 🟠
 - 📫 Contate-me no email: Bruno.negri.pinto@gmail.com
 - <div align="center">
   <a href="https://github.com/BrunoNegri-c">
