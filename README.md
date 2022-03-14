@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Bruno Negri 👋
-- 🌱 Estudante de  BootCamp 
+- 🌱 Estudante de Bootcamp
 - 💻 Estudando a linguaguem C#
 - 💻 VsCode 👨‍🎓
 - 💻 .NET 👨‍🎓
