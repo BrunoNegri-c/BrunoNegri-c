@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Bruno Negri 👋
-- 🌱 Estudante de Bootcamp
-- 💻 Estudando a linguaguem C#
-- 💻 VsCode 👨‍🎓
-- 💻 .NET 👨‍🎓
+ -💻 Estudando Python
+- 💻 Estudando C#
+- 💻 Estudando JavaScript
+- 💻 VsCode
+- 💻Pycharm
+- 💻 SQL
 - 📫 Contate-me no email: Bruno.negri.pinto@gmail.com
 - <div align="center">
   <a href="https://github.com/BrunoNegri-c">
