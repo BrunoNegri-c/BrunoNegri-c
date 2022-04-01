@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Negri 👋
 
- -💻 Estudando Python
+  -💻 Estudando Python
 - 💻 Estudando C#
 - 💻 Estudando JavaScript
 - 💻 VsCode
