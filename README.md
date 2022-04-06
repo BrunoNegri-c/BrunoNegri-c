@@ -4,8 +4,9 @@
 - 💻 Estudando C#
 - 💻 Estudando JavaScript
 - 💻 VsCode
-- 💻Pycharm
+- 💻 Pycharm
 - 💻 SQL
+- 💻 HTML/CSS
 - 📫 Contate-me no email: Bruno.negri.pinto@gmail.com
 - <div align="center">
   <a href="https://github.com/BrunoNegri-c">
