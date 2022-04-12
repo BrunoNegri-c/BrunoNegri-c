@@ -7,7 +7,7 @@
 - 💻 Pycharm
 - 💻 SQL
 - 💻 HTML/CSS
-- 📫 Contate-me no email: Bruno.negri.pinto@gmail.com
+- 📫 Contate-me no email: brunodomingos2022@gmail.com
 - <div align="center">
   <a href="https://github.com/BrunoNegri-c">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoNegri&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
