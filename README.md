@@ -17,6 +17,8 @@
 <img align="center" alt= "Bruno-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt= "Bruno-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="center" alt= "Bruno-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img align="center" alt= "Bruno-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original-wordmark.svg" />
+  
   
 </div>
 
